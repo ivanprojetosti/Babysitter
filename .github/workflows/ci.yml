@@ -55,6 +55,11 @@ jobs:
           set -euo pipefail
           npm run build:sdk 2>&1 | tee artifacts/test-logs/build.log
 
+      - name: Babysitter CLI gate (health + configure)
+        run: |
+          set -euo pipefail
+          npm run verify:babysitter 2>&1 | tee artifacts/test-logs/babysitter-gate.log
+
       - name: Unit tests
         run: |
           set -euo pipefail
