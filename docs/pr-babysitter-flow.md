@@ -2,6 +2,17 @@
 
 Objetivo: antes do merge, ter **pass/fail explícito** do CLI Babysitter neste repositório, com saída acionável (comandos `health` e `configure validate`).
 
+## Como o Babysitter é acionado (gatilhos)
+
+Há **dois canais** diferentes — não confundir:
+
+| Canal | O que é | Quem / quando aciona |
+|--------|---------|----------------------|
+| **Gate neste repo (CI + script)** | O CLI `babysitter` compilado do monorepo corre `health` e `configure validate` via `npm run verify:babysitter`. | **Automático:** em cada **pull request** (e em `workflow_dispatch` manual no GitHub), o job *Lint, Tests, Package* em `.github/workflows/ci.yml` corre o passo **Babysitter CLI gate** logo após `npm run build:sdk`. Não depende da skill no Cursor. |
+| **Skill Babysitter no Cursor CLI** | Orquestração / processos no IDE (babysit, harness, etc.). | **Humano / agente** no ambiente local; é complementar ao gate de PR, não o substitui. |
+
+**Resumo para o board:** na PR, o Babysitter “acende” sozinho no GitHub Actions quando o workflow de CI corre; falha bloqueia merge na prática (check vermelho). Opcionalmente, cada dev pode correr o mesmo comando localmente antes de abrir a PR.
+
 ## Comando mínimo (local)
 
 Na raiz do repositório, após dependências e build do SDK:
