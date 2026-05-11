@@ -1,0 +1,1189 @@
+[
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "xml.etree.ElementTree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "namedtuple",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "get_close_matches",
+        "importPath": "difflib",
+        "description": "difflib",
+        "isExtraImport": true,
+        "detail": "difflib",
+        "documentation": {}
+    },
+    {
+        "label": "get_close_matches",
+        "importPath": "difflib",
+        "description": "difflib",
+        "isExtraImport": true,
+        "detail": "difflib",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.a5c_append_event",
+        "description": ".a5c.orchestrator_scripts.a5c_append_event",
+        "peekOfCode": "def main() -> int:\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"--run-dir\", required=True)\n    parser.add_argument(\"--event\", required=True)\n    parser.add_argument(\"--data\", default=\"{}\")\n    parser.add_argument(\"--type\", default=\"event\")\n    parser.add_argument(\"--timestamp\", default=\"\")\n    parser.add_argument(\"--set-status\", default=\"\")\n    args = parser.parse_args()\n    run_dir = Path(args.run_dir)",
+        "detail": ".a5c.orchestrator_scripts.a5c_append_event",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.a5c_render_prompt",
+        "description": ".a5c.orchestrator_scripts.a5c_render_prompt",
+        "peekOfCode": "def main() -> int:\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"--template\", required=True)\n    parser.add_argument(\"--out\", required=True)\n    parser.add_argument(\"--task\", required=True)\n    parser.add_argument(\"--context-json\", default=\"\")\n    parser.add_argument(\"--context-file\", default=\"\")\n    args = parser.parse_args()\n    template = Path(args.template).read_text(encoding=\"utf-8\")\n    if args.context_file:",
+        "detail": ".a5c.orchestrator_scripts.a5c_render_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "extract_first_json",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.extract_first_json",
+        "description": ".a5c.orchestrator_scripts.extract_first_json",
+        "peekOfCode": "def extract_first_json(text: str):\n    candidates = []\n    for match in re.finditer(r\"(\\{|\\[)\", text):\n        start = match.start()\n        for end in range(len(text), start, -1):\n            chunk = text[start:end]\n            try:\n                return json.loads(chunk)\n            except Exception:\n                continue",
+        "detail": ".a5c.orchestrator_scripts.extract_first_json",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.extract_first_json",
+        "description": ".a5c.orchestrator_scripts.extract_first_json",
+        "peekOfCode": "def main() -> int:\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"--in\", dest=\"in_path\", required=True)\n    parser.add_argument(\"--out\", dest=\"out_path\", required=True)\n    args = parser.parse_args()\n    raw = Path(args.in_path).read_bytes()\n    if raw.startswith(b\"\\xff\\xfe\") or raw.startswith(b\"\\xfe\\xff\"):\n        text = raw.decode(\"utf-16\")\n    elif raw.startswith(b\"\\xef\\xbb\\xbf\"):\n        text = raw.decode(\"utf-8-sig\", errors=\"replace\")",
+        "detail": ".a5c.orchestrator_scripts.extract_first_json",
+        "documentation": {}
+    },
+    {
+        "label": "read_text",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.extract_last_json",
+        "description": ".a5c.orchestrator_scripts.extract_last_json",
+        "peekOfCode": "def read_text(path: Path) -> str:\n    raw = path.read_bytes()\n    if raw.startswith(b\"\\xff\\xfe\") or raw.startswith(b\"\\xfe\\xff\"):\n        return raw.decode(\"utf-16\")\n    if raw.startswith(b\"\\xef\\xbb\\xbf\"):\n        return raw.decode(\"utf-8-sig\", errors=\"replace\")\n    return raw.decode(\"utf-8\", errors=\"replace\")\ndef extract_last_json(text: str):\n    return extract_last_json_matching(text, must_have_keys=[])\ndef extract_last_json_matching(text: str, must_have_keys: list[str]):",
+        "detail": ".a5c.orchestrator_scripts.extract_last_json",
+        "documentation": {}
+    },
+    {
+        "label": "extract_last_json",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.extract_last_json",
+        "description": ".a5c.orchestrator_scripts.extract_last_json",
+        "peekOfCode": "def extract_last_json(text: str):\n    return extract_last_json_matching(text, must_have_keys=[])\ndef extract_last_json_matching(text: str, must_have_keys: list[str]):\n    decoder = json.JSONDecoder()\n    candidates = [m.start() for m in re.finditer(r\"(\\{|\\[)\", text)]\n    for start in reversed(candidates):\n        try:\n            obj, end = decoder.raw_decode(text[start:])\n        except Exception:\n            continue",
+        "detail": ".a5c.orchestrator_scripts.extract_last_json",
+        "documentation": {}
+    },
+    {
+        "label": "extract_last_json_matching",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.extract_last_json",
+        "description": ".a5c.orchestrator_scripts.extract_last_json",
+        "peekOfCode": "def extract_last_json_matching(text: str, must_have_keys: list[str]):\n    decoder = json.JSONDecoder()\n    candidates = [m.start() for m in re.finditer(r\"(\\{|\\[)\", text)]\n    for start in reversed(candidates):\n        try:\n            obj, end = decoder.raw_decode(text[start:])\n        except Exception:\n            continue\n        rest = text[start + end :]\n        # Accept the last JSON value in the file, even if followed by non-JSON noise",
+        "detail": ".a5c.orchestrator_scripts.extract_last_json",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.extract_last_json",
+        "description": ".a5c.orchestrator_scripts.extract_last_json",
+        "peekOfCode": "def main() -> int:\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"--in\", dest=\"in_path\", required=True)\n    parser.add_argument(\"--out\", dest=\"out_path\", required=True)\n    parser.add_argument(\n        \"--must-have-keys\",\n        default=\"\",\n        help=\"Comma-separated list of keys that must exist on the extracted JSON object.\",\n    )\n    args = parser.parse_args()",
+        "detail": ".a5c.orchestrator_scripts.extract_last_json",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_string",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "description": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "peekOfCode": "def normalize_string(value: str) -> str:\n    for bad, good in REPLACEMENTS.items():\n        value = value.replace(bad, good)\n    # Final safety: keep it ASCII-only for paste-ready launch copy.\n    value = value.encode(\"ascii\", errors=\"ignore\").decode(\"ascii\")\n    # Collapse any accidental double spaces from replacements.\n    value = \" \".join(value.split())\n    return value\ndef walk(value):\n    if isinstance(value, str):",
+        "detail": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "documentation": {}
+    },
+    {
+        "label": "walk",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "description": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "peekOfCode": "def walk(value):\n    if isinstance(value, str):\n        return normalize_string(value)\n    if isinstance(value, list):\n        return [walk(v) for v in value]\n    if isinstance(value, dict):\n        return {k: walk(v) for k, v in value.items()}\n    return value\ndef main() -> int:\n    parser = argparse.ArgumentParser()",
+        "detail": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "description": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "peekOfCode": "def main() -> int:\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"--in\", dest=\"in_path\", required=True)\n    parser.add_argument(\"--out\", dest=\"out_path\", required=True)\n    parser.add_argument(\"--indent\", type=int, default=2)\n    args = parser.parse_args()\n    in_path = Path(args.in_path)\n    out_path = Path(args.out_path)\n    obj = json.loads(in_path.read_text(encoding=\"utf-8\"))\n    obj = walk(obj)",
+        "detail": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "documentation": {}
+    },
+    {
+        "label": "REPLACEMENTS",
+        "kind": 5,
+        "importPath": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "description": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "peekOfCode": "REPLACEMENTS = {\n    # Common mojibake sequences seen when UTF-8 punctuation is decoded as Windows-1252/Latin-1.\n    \"ÔÇô\": \"-\",  # en dash\n    \"ÔÇö\": \"-\",  # em dash\n    \"ÔÇª\": \"...\",  # ellipsis\n    \"ÔÇÖ\": \"'\",  # right single quote\n    \"ÔÇŒ\": '\"',  # left double quote (approx)\n    \"ÔÇ\": '\"',  # right double quote (approx)\n    \"ÔåÆ\": \" -> \",  # arrow-like separator in this repo outputs\n}",
+        "detail": ".a5c.orchestrator_scripts.normalize_json_ascii",
+        "documentation": {}
+    },
+    {
+        "label": "read_text",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.repair_json_text",
+        "description": ".a5c.orchestrator_scripts.repair_json_text",
+        "peekOfCode": "def read_text(path: Path) -> str:\n    raw = path.read_bytes()\n    if raw.startswith(b\"\\xff\\xfe\") or raw.startswith(b\"\\xfe\\xff\"):\n        return raw.decode(\"utf-16\")\n    if raw.startswith(b\"\\xef\\xbb\\xbf\"):\n        return raw.decode(\"utf-8-sig\", errors=\"replace\")\n    return raw.decode(\"utf-8\", errors=\"replace\")\nREPLACEMENTS = [\n    # Common mojibake for dashes/ellipsis\n    (r\"ÔÇô|ÔÇö|â€“|â€”\", \"-\"),",
+        "detail": ".a5c.orchestrator_scripts.repair_json_text",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.repair_json_text",
+        "description": ".a5c.orchestrator_scripts.repair_json_text",
+        "peekOfCode": "def main() -> int:\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"--in\", dest=\"in_path\", required=True)\n    parser.add_argument(\"--out\", dest=\"out_path\", required=True)\n    args = parser.parse_args()\n    text = read_text(Path(args.in_path))\n    for pattern, repl in REPLACEMENTS:\n        text = re.sub(pattern, repl, text)\n    Path(args.out_path).write_text(text, encoding=\"utf-8\")\n    return 0",
+        "detail": ".a5c.orchestrator_scripts.repair_json_text",
+        "documentation": {}
+    },
+    {
+        "label": "REPLACEMENTS",
+        "kind": 5,
+        "importPath": ".a5c.orchestrator_scripts.repair_json_text",
+        "description": ".a5c.orchestrator_scripts.repair_json_text",
+        "peekOfCode": "REPLACEMENTS = [\n    # Common mojibake for dashes/ellipsis\n    (r\"ÔÇô|ÔÇö|â€“|â€”\", \"-\"),\n    (r\"ÔÇª|â€¦\", \"...\"),\n    # Seen in some outputs when an en-dash leaks an embedded quote; replace whole sequence.\n    (r\"ا\\\"اخaُ\", \"-\"),\n    (r\"ا\\\"اخa\", \"-\"),\n    (r\"ا\\\"اخ\", \"-\"),\n]\ndef main() -> int:",
+        "detail": ".a5c.orchestrator_scripts.repair_json_text",
+        "documentation": {}
+    },
+    {
+        "label": "read_text",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.sanitize_codex_output",
+        "description": ".a5c.orchestrator_scripts.sanitize_codex_output",
+        "peekOfCode": "def read_text(path: Path) -> str:\n    raw = path.read_bytes()\n    if raw.startswith(b\"\\xff\\xfe\") or raw.startswith(b\"\\xfe\\xff\"):\n        return raw.decode(\"utf-16\")\n    if raw.startswith(b\"\\xef\\xbb\\xbf\"):\n        return raw.decode(\"utf-8-sig\", errors=\"replace\")\n    return raw.decode(\"utf-8\", errors=\"replace\")\ndef sanitize_lines(lines: list[str]) -> list[str]:\n    out: list[str] = []\n    skip_next_numeric = False",
+        "detail": ".a5c.orchestrator_scripts.sanitize_codex_output",
+        "documentation": {}
+    },
+    {
+        "label": "sanitize_lines",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.sanitize_codex_output",
+        "description": ".a5c.orchestrator_scripts.sanitize_codex_output",
+        "peekOfCode": "def sanitize_lines(lines: list[str]) -> list[str]:\n    out: list[str] = []\n    skip_next_numeric = False\n    for line in lines:\n        # Remove standalone comma-grouped numeric lines (often \"tokens used\" counts that slip in).\n        if re.fullmatch(r\"\\s*\\d{1,3}(,\\d{3})+\\s*\\r?\\n?\", line):\n            continue\n        if skip_next_numeric:\n            if re.fullmatch(r\"\\s*\\d[\\d,]*\\s*\", line):\n                skip_next_numeric = False",
+        "detail": ".a5c.orchestrator_scripts.sanitize_codex_output",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".a5c.orchestrator_scripts.sanitize_codex_output",
+        "description": ".a5c.orchestrator_scripts.sanitize_codex_output",
+        "peekOfCode": "def main() -> int:\n    parser = argparse.ArgumentParser()\n    parser.add_argument(\"--in\", dest=\"in_path\", required=True)\n    parser.add_argument(\"--out\", dest=\"out_path\", required=True)\n    args = parser.parse_args()\n    in_path = Path(args.in_path)\n    out_path = Path(args.out_path)\n    text = read_text(in_path)\n    lines = text.splitlines(keepends=True)\n    cleaned = sanitize_lines(lines)",
+        "detail": ".a5c.orchestrator_scripts.sanitize_codex_output",
+        "documentation": {}
+    },
+    {
+        "label": "parse_style",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def parse_style(style_string: str) -> dict:\n    \"\"\"Parse semicolon-separated style string into dictionary.\"\"\"\n    if not style_string:\n        return {}\n    properties = {}\n    for item in style_string.split(';'):\n        if '=' in item:\n            key, value = item.split('=', 1)\n            properties[key.strip()] = value.strip()\n    return properties",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "extract_shape_type",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def extract_shape_type(style: dict) -> str:\n    \"\"\"Extract the shape type from parsed style.\"\"\"\n    shape = style.get('shape', '')\n    if shape.startswith('mxgraph.gcp2.'):\n        return shape.replace('mxgraph.gcp2.', 'GCP: ')\n    if shape.startswith('mxgraph.'):\n        return shape\n    if style.get('container') == '1':\n        return 'Container'\n    return 'Shape'",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_drawio",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def analyze_drawio(file_path: str) -> dict:\n    \"\"\"Analyze a DrawIO file and return structured data.\"\"\"\n    tree = ET.parse(file_path)\n    root = tree.getroot()\n    result = {\n        'file': str(file_path),\n        'diagrams': [],\n        'summary': {\n            'total_shapes': 0,\n            'total_connections': 0,",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "format_markdown",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def format_markdown(data: dict) -> str:\n    \"\"\"Format analysis as Markdown report.\"\"\"\n    lines = []\n    lines.append(f\"# DrawIO Analysis Report\\n\")\n    lines.append(f\"**File:** `{data['file']}`\\n\")\n    # Summary\n    s = data['summary']\n    lines.append(\"## Summary\\n\")\n    lines.append(f\"- **Total Shapes:** {s['total_shapes']}\")\n    lines.append(f\"- **Total Connections:** {s['total_connections']}\")",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "format_text",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def format_text(data: dict) -> str:\n    \"\"\"Format analysis as plain text summary.\"\"\"\n    lines = []\n    lines.append(f\"DrawIO Analysis: {data['file']}\")\n    lines.append(\"=\" * 50)\n    s = data['summary']\n    lines.append(f\"\\nSummary:\")\n    lines.append(f\"  Shapes: {s['total_shapes']}\")\n    lines.append(f\"  Connections: {s['total_connections']}\")\n    lines.append(f\"  Containers: {s['total_containers']}\")",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def main():\n    if len(sys.argv) < 2:\n        print(\"Usage: python analyze-existing.py <file.drawio> [--json|--markdown]\")\n        sys.exit(2)\n    file_path = sys.argv[1]\n    output_format = 'text'\n    if '--json' in sys.argv:\n        output_format = 'json'\n    elif '--markdown' in sys.argv or '--md' in sys.argv:\n        output_format = 'markdown'",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "extract_shape_names",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.extract-shape-names",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.extract-shape-names",
+        "peekOfCode": "def extract_shape_names(xml_file):\n    \"\"\"\n    Parse DrawIO stencil XML and extract all shape names.\n    Args:\n        xml_file: Path to the XML stencil file\n    Returns:\n        List of shape names (strings)\n    \"\"\"\n    try:\n        tree = ET.parse(xml_file)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.extract-shape-names",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.extract-shape-names",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.extract-shape-names",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(\n        description='Extract shape names from DrawIO stencil XML files'\n    )\n    parser.add_argument('xml_file', help='Path to the XML stencil file')\n    parser.add_argument('--output', '-o', help='Output file (default: stdout)')\n    parser.add_argument('--sort', '-s', action='store_true',\n                       help='Sort shape names alphabetically')\n    parser.add_argument('--count', '-c', action='store_true',\n                       help='Show count of shapes found')",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.extract-shape-names",
+        "documentation": {}
+    },
+    {
+        "label": "backup_file",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "peekOfCode": "def backup_file(file_path):\n    \"\"\"Create a backup of the original file.\"\"\"\n    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')\n    backup_path = file_path.parent / f\"{file_path.stem}.backup_{timestamp}{file_path.suffix}\"\n    shutil.copy2(file_path, backup_path)\n    return backup_path\ndef fix_shape_name(service, all_fixes):\n    \"\"\"Fix shape name if a known fix exists.\"\"\"\n    current_shape = service['drawio_shape']['shape_name']\n    if current_shape in all_fixes:",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "fix_shape_name",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "peekOfCode": "def fix_shape_name(service, all_fixes):\n    \"\"\"Fix shape name if a known fix exists.\"\"\"\n    current_shape = service['drawio_shape']['shape_name']\n    if current_shape in all_fixes:\n        new_shape = all_fixes[current_shape]\n        old_full_style = service['drawio_shape']['full_style']\n        # Handle both prIcon= and resIcon= patterns\n        new_full_style = old_full_style.replace(\n            f'mxgraph.aws4.{current_shape}',\n            f'mxgraph.aws4.{new_shape}'",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "fix_fill_color",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "peekOfCode": "def fix_fill_color(service, category_colors):\n    \"\"\"Fix fillColor if it doesn't match the expected category color.\"\"\"\n    category = service.get('category', '')\n    expected_color = category_colors.get(category)\n    if not expected_color:\n        return False\n    old_style = service['drawio_shape']['full_style']\n    # Extract current fillColor\n    for part in old_style.split(';'):\n        if part.startswith('fillColor='):",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "apply_fixes",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "peekOfCode": "def apply_fixes(aws_icons, dry_run=False, include_medium=True, include_fallbacks=False):\n    \"\"\"Apply all fixes to the AWS icons data.\"\"\"\n    changes = {\n        'shape_fixes': [],\n        'fill_color_fixes': [],\n    }\n    # Combine fixes based on flags\n    all_fixes = SHAPE_FIXES.copy()\n    if include_medium:\n        all_fixes.update(MEDIUM_CONFIDENCE_FIXES)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "print_report",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "peekOfCode": "def print_report(changes, dry_run=False):\n    \"\"\"Print report of changes.\"\"\"\n    mode = \"DRY RUN - \" if dry_run else \"\"\n    print(\"\\n\" + \"=\" * 70)\n    print(f\"{mode}AWS ICON FIX REPORT\")\n    print(\"=\" * 70 + \"\\n\")\n    # Shape name fixes\n    if changes['shape_fixes']:\n        print(f\"SHAPE NAME FIXES ({len(changes['shape_fixes'])})\")\n        print(\"-\" * 70)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "peekOfCode": "def main():\n    import argparse\n    parser = argparse.ArgumentParser(description='Fix AWS icon issues in aws-icons.json')\n    parser.add_argument('--dry-run', action='store_true',\n                       help='Show what would be changed without modifying files')\n    parser.add_argument('--no-medium', action='store_true',\n                       help='Skip medium-confidence fixes')\n    parser.add_argument('--include-fallbacks', action='store_true',\n                       help='Include fallback icons for services without exact matches')\n    args = parser.parse_args()",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "SHAPE_FIXES",
+        "kind": 5,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "peekOfCode": "SHAPE_FIXES = {\n    # Example: 'wrong_name': 'correct_name',\n}\n# Medium confidence - reasonable mappings for renamed/aliased shapes\nMEDIUM_CONFIDENCE_FIXES = {\n    # Example: 'old_name': 'new_equivalent',\n}\n# Fallback icons for services without exact matches\nNO_MATCH_FIXES = {\n    # Example: 'missing_service': 'generic_alternative',",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIUM_CONFIDENCE_FIXES",
+        "kind": 5,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "peekOfCode": "MEDIUM_CONFIDENCE_FIXES = {\n    # Example: 'old_name': 'new_equivalent',\n}\n# Fallback icons for services without exact matches\nNO_MATCH_FIXES = {\n    # Example: 'missing_service': 'generic_alternative',\n}\ndef backup_file(file_path):\n    \"\"\"Create a backup of the original file.\"\"\"\n    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "NO_MATCH_FIXES",
+        "kind": 5,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "peekOfCode": "NO_MATCH_FIXES = {\n    # Example: 'missing_service': 'generic_alternative',\n}\ndef backup_file(file_path):\n    \"\"\"Create a backup of the original file.\"\"\"\n    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')\n    backup_path = file_path.parent / f\"{file_path.stem}.backup_{timestamp}{file_path.suffix}\"\n    shutil.copy2(file_path, backup_path)\n    return backup_path\ndef fix_shape_name(service, all_fixes):",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "backup_file",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-drawio-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-drawio-icons",
+        "peekOfCode": "def backup_file(file_path):\n    \"\"\"Create a backup of the file.\"\"\"\n    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')\n    backup_path = file_path.parent / f\"{file_path.stem}.backup_{timestamp}{file_path.suffix}\"\n    shutil.copy2(file_path, backup_path)\n    return backup_path\ndef fix_drawio_file(file_path, dry_run=False):\n    \"\"\"Fix icon references in a single DrawIO file.\"\"\"\n    file_path = Path(file_path)\n    # Read file",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-drawio-icons",
+        "documentation": {}
+    },
+    {
+        "label": "fix_drawio_file",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-drawio-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-drawio-icons",
+        "peekOfCode": "def fix_drawio_file(file_path, dry_run=False):\n    \"\"\"Fix icon references in a single DrawIO file.\"\"\"\n    file_path = Path(file_path)\n    # Read file\n    with open(file_path, 'r', encoding='utf-8') as f:\n        content = f.read()\n    original_content = content\n    changes_made = []\n    # Apply fixes\n    for old_shape, new_shape in SHAPE_FIXES.items():",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-drawio-icons",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-drawio-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-drawio-icons",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description='Fix icon references in DrawIO files')\n    parser.add_argument('files', nargs='*', help='DrawIO files to fix (default: all in output/ and assets/examples/)')\n    parser.add_argument('--dry-run', action='store_true', help='Show what would be changed without modifying files')\n    args = parser.parse_args()\n    # Determine which files to process\n    if args.files:\n        files_to_fix = [Path(f) for f in args.files]\n    else:\n        # Find all .drawio files in output/ and assets/examples/",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.fix-drawio-icons",
+        "documentation": {}
+    },
+    {
+        "label": "load_available_shapes",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "peekOfCode": "def load_available_shapes(shapes_file):\n    \"\"\"Load available shape names from text file.\"\"\"\n    with open(shapes_file, 'r') as f:\n        shapes = [line.strip() for line in f if line.strip()]\n    return shapes\ndef load_aws_icons(icons_file):\n    \"\"\"Load AWS icons from JSON file.\"\"\"\n    with open(icons_file, 'r') as f:\n        return json.load(f)\ndef extract_shape_name(full_style):",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "load_aws_icons",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "peekOfCode": "def load_aws_icons(icons_file):\n    \"\"\"Load AWS icons from JSON file.\"\"\"\n    with open(icons_file, 'r') as f:\n        return json.load(f)\ndef extract_shape_name(full_style):\n    \"\"\"Extract the resIcon shape name from a full style string.\"\"\"\n    for part in full_style.split(';'):\n        part = part.strip()\n        if part.startswith('resIcon='):\n            val = part.split('=', 1)[1]",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "extract_shape_name",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "peekOfCode": "def extract_shape_name(full_style):\n    \"\"\"Extract the resIcon shape name from a full style string.\"\"\"\n    for part in full_style.split(';'):\n        part = part.strip()\n        if part.startswith('resIcon='):\n            val = part.split('=', 1)[1]\n            return val.replace('mxgraph.aws4.', '')\n    return None\ndef validate_icons(available_shapes, aws_icons):\n    \"\"\"",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "validate_icons",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "peekOfCode": "def validate_icons(available_shapes, aws_icons):\n    \"\"\"\n    Validate each icon in aws-icons.json against available shapes.\n    Returns dict with validation results.\n    \"\"\"\n    # Build a set of available shape names (lowercase for comparison)\n    shape_set = set(available_shapes)\n    shape_set_lower = {s.lower(): s for s in available_shapes}\n    results = {\n        'valid': [],",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "print_report",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "peekOfCode": "def print_report(results):\n    \"\"\"Print validation report.\"\"\"\n    print(\"\\n\" + \"=\" * 70)\n    print(\"AWS ICON VALIDATION REPORT\")\n    print(\"=\" * 70 + \"\\n\")\n    # Valid icons\n    print(f\"✅ VALID ICONS ({len(results['valid'])})\")\n    print(\"-\" * 70)\n    for item in results['valid']:\n        print(f\"  ✓ {item['service_name']} → {item['shape_name']}\")",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "peekOfCode": "def main():\n    script_dir = Path(__file__).parent\n    skill_root = script_dir.parent\n    # Look for shapes file in multiple locations\n    shapes_candidates = [\n        skill_root / '.archive' / 'aws4-available-shapes.txt',           # Inside skill\n        skill_root.parent.parent.parent / '.archive' / 'aws4-available-shapes.txt',  # Project root .archive/\n    ]\n    shapes_file = None\n    for candidate in shapes_candidates:",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-aws-icons",
+        "documentation": {}
+    },
+    {
+        "label": "DrawIOValidator",
+        "kind": 6,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-drawio",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-drawio",
+        "peekOfCode": "class DrawIOValidator:\n    def __init__(self, verbose=False):\n        self.verbose = verbose\n        self.errors = []\n        self.warnings = []\n    def log(self, msg):\n        if self.verbose:\n            print(f\"  [INFO] {msg}\")\n    def error(self, msg):\n        self.errors.append(msg)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-drawio",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-drawio",
+        "description": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-drawio",
+        "peekOfCode": "def main():\n    if len(sys.argv) < 2:\n        print(\"Usage: python validate-drawio.py <file.drawio> [--verbose]\")\n        sys.exit(2)\n    file_path = sys.argv[1]\n    verbose = '--verbose' in sys.argv or '-v' in sys.argv\n    print(f\"Validating: {file_path}\")\n    print(\"-\" * 50)\n    validator = DrawIOValidator(verbose=verbose)\n    is_valid = validator.validate(file_path)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-aws-diagrams.scripts.validate-drawio",
+        "documentation": {}
+    },
+    {
+        "label": "parse_style",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def parse_style(style_string: str) -> dict:\n    \"\"\"Parse semicolon-separated style string into dictionary.\"\"\"\n    if not style_string:\n        return {}\n    properties = {}\n    for item in style_string.split(';'):\n        if '=' in item:\n            key, value = item.split('=', 1)\n            properties[key.strip()] = value.strip()\n    return properties",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "extract_shape_type",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def extract_shape_type(style: dict) -> str:\n    \"\"\"Extract the shape type from parsed style.\"\"\"\n    shape = style.get('shape', '')\n    if shape.startswith('mxgraph.gcp2.'):\n        return shape.replace('mxgraph.gcp2.', 'GCP: ')\n    if shape.startswith('mxgraph.'):\n        return shape\n    if style.get('container') == '1':\n        return 'Container'\n    return 'Shape'",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_drawio",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def analyze_drawio(file_path: str) -> dict:\n    \"\"\"Analyze a DrawIO file and return structured data.\"\"\"\n    tree = ET.parse(file_path)\n    root = tree.getroot()\n    result = {\n        'file': str(file_path),\n        'diagrams': [],\n        'summary': {\n            'total_shapes': 0,\n            'total_connections': 0,",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "format_markdown",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def format_markdown(data: dict) -> str:\n    \"\"\"Format analysis as Markdown report.\"\"\"\n    lines = []\n    lines.append(f\"# DrawIO Analysis Report\\n\")\n    lines.append(f\"**File:** `{data['file']}`\\n\")\n    # Summary\n    s = data['summary']\n    lines.append(\"## Summary\\n\")\n    lines.append(f\"- **Total Shapes:** {s['total_shapes']}\")\n    lines.append(f\"- **Total Connections:** {s['total_connections']}\")",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "format_text",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def format_text(data: dict) -> str:\n    \"\"\"Format analysis as plain text summary.\"\"\"\n    lines = []\n    lines.append(f\"DrawIO Analysis: {data['file']}\")\n    lines.append(\"=\" * 50)\n    s = data['summary']\n    lines.append(f\"\\nSummary:\")\n    lines.append(f\"  Shapes: {s['total_shapes']}\")\n    lines.append(f\"  Connections: {s['total_connections']}\")\n    lines.append(f\"  Containers: {s['total_containers']}\")",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "peekOfCode": "def main():\n    if len(sys.argv) < 2:\n        print(\"Usage: python analyze-existing.py <file.drawio> [--json|--markdown]\")\n        sys.exit(2)\n    file_path = sys.argv[1]\n    output_format = 'text'\n    if '--json' in sys.argv:\n        output_format = 'json'\n    elif '--markdown' in sys.argv or '--md' in sys.argv:\n        output_format = 'markdown'",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.analyze-existing",
+        "documentation": {}
+    },
+    {
+        "label": "extract_shape_names",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.extract-shape-names",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.extract-shape-names",
+        "peekOfCode": "def extract_shape_names(xml_file):\n    \"\"\"\n    Parse DrawIO stencil XML and extract all shape names.\n    Args:\n        xml_file: Path to the XML stencil file\n    Returns:\n        List of shape names (strings)\n    \"\"\"\n    try:\n        tree = ET.parse(xml_file)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.extract-shape-names",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.extract-shape-names",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.extract-shape-names",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(\n        description='Extract shape names from DrawIO stencil XML files'\n    )\n    parser.add_argument('xml_file', help='Path to the XML stencil file')\n    parser.add_argument('--output', '-o', help='Output file (default: stdout)')\n    parser.add_argument('--sort', '-s', action='store_true',\n                       help='Sort shape names alphabetically')\n    parser.add_argument('--count', '-c', action='store_true',\n                       help='Show count of shapes found')",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.extract-shape-names",
+        "documentation": {}
+    },
+    {
+        "label": "backup_file",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "peekOfCode": "def backup_file(file_path):\n    \"\"\"Create a backup of the file.\"\"\"\n    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')\n    backup_path = file_path.parent / f\"{file_path.stem}.backup_{timestamp}{file_path.suffix}\"\n    shutil.copy2(file_path, backup_path)\n    return backup_path\ndef fix_drawio_file(file_path, dry_run=False):\n    \"\"\"Fix icon references in a single DrawIO file.\"\"\"\n    file_path = Path(file_path)\n    # Read file",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "documentation": {}
+    },
+    {
+        "label": "fix_drawio_file",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "peekOfCode": "def fix_drawio_file(file_path, dry_run=False):\n    \"\"\"Fix icon references in a single DrawIO file.\"\"\"\n    file_path = Path(file_path)\n    # Read file\n    with open(file_path, 'r', encoding='utf-8') as f:\n        content = f.read()\n    original_content = content\n    changes_made = []\n    # Apply fixes\n    for old_shape, new_shape in SHAPE_FIXES.items():",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description='Fix icon references in DrawIO files')\n    parser.add_argument('files', nargs='*', help='DrawIO files to fix (default: all in output/ and assets/examples/)')\n    parser.add_argument('--dry-run', action='store_true', help='Show what would be changed without modifying files')\n    args = parser.parse_args()\n    # Determine which files to process\n    if args.files:\n        files_to_fix = [Path(f) for f in args.files]\n    else:\n        # Find all .drawio files in output/ and assets/examples/",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "documentation": {}
+    },
+    {
+        "label": "SHAPE_FIXES",
+        "kind": 5,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "peekOfCode": "SHAPE_FIXES = {\n    'mxgraph.gcp2.pubsub': 'mxgraph.gcp2.cloud_pubsub',\n    'mxgraph.gcp2.memorystore': 'mxgraph.gcp2.cloud_memorystore',\n    'mxgraph.gcp2.filestore': 'mxgraph.gcp2.cloud_filestore',\n    'mxgraph.gcp2.vertexai': 'mxgraph.gcp2.cloud_machine_learning',\n    'mxgraph.gcp2.ai_platform': 'mxgraph.gcp2.cloud_machine_learning',\n    'mxgraph.gcp2.vision_api': 'mxgraph.gcp2.cloud_vision_api',\n    'mxgraph.gcp2.natural_language_api': 'mxgraph.gcp2.cloud_natural_language_api',\n    'mxgraph.gcp2.speech_to_text': 'mxgraph.gcp2.cloud_speech_api',\n    'mxgraph.gcp2.cloud_logging': 'mxgraph.gcp2.logging',",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-drawio-icons",
+        "documentation": {}
+    },
+    {
+        "label": "backup_file",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "peekOfCode": "def backup_file(file_path):\n    \"\"\"Create a backup of the original file.\"\"\"\n    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')\n    backup_path = file_path.parent / f\"{file_path.stem}.backup_{timestamp}{file_path.suffix}\"\n    shutil.copy2(file_path, backup_path)\n    return backup_path\ndef fix_shape_name(service, all_fixes):\n    \"\"\"Fix shape name if needed.\"\"\"\n    current_shape = service['drawio_shape']['shape_name']\n    if current_shape in all_fixes:",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "fix_shape_name",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "peekOfCode": "def fix_shape_name(service, all_fixes):\n    \"\"\"Fix shape name if needed.\"\"\"\n    current_shape = service['drawio_shape']['shape_name']\n    if current_shape in all_fixes:\n        new_shape = all_fixes[current_shape]\n        old_full_style = service['drawio_shape']['full_style']\n        new_full_style = old_full_style.replace(\n            f'shape=mxgraph.gcp2.{current_shape}',\n            f'shape=mxgraph.gcp2.{new_shape}'\n        )",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "fix_font_color",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "peekOfCode": "def fix_font_color(service):\n    \"\"\"Fix font color from #999999 to #424242.\"\"\"\n    old_style = service['drawio_shape']['full_style']\n    if 'fontColor=#999999' in old_style:\n        new_style = old_style.replace('fontColor=#999999', 'fontColor=#424242')\n        service['drawio_shape']['full_style'] = new_style\n        return True\n    return False\ndef apply_fixes(gcp_icons, dry_run=False, include_medium=True, include_fallbacks=False):\n    \"\"\"Apply all fixes to the GCP icons data.\"\"\"",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "apply_fixes",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "peekOfCode": "def apply_fixes(gcp_icons, dry_run=False, include_medium=True, include_fallbacks=False):\n    \"\"\"Apply all fixes to the GCP icons data.\"\"\"\n    changes = {\n        'shape_fixes': [],\n        'font_color_fixes': [],\n    }\n    # Combine fixes based on flags\n    all_fixes = SHAPE_FIXES.copy()\n    if include_medium:\n        all_fixes.update(MEDIUM_CONFIDENCE_FIXES)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "print_report",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "peekOfCode": "def print_report(changes, dry_run=False):\n    \"\"\"Print report of changes.\"\"\"\n    mode = \"DRY RUN - \" if dry_run else \"\"\n    print(\"\\n\" + \"=\"*70)\n    print(f\"{mode}GCP ICON FIX REPORT\")\n    print(\"=\"*70 + \"\\n\")\n    # Shape name fixes\n    if changes['shape_fixes']:\n        print(f\"SHAPE NAME FIXES ({len(changes['shape_fixes'])})\")\n        print(\"-\" * 70)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "peekOfCode": "def main():\n    import argparse\n    parser = argparse.ArgumentParser(description='Fix GCP icon issues in gcp-icons.json')\n    parser.add_argument('--dry-run', action='store_true',\n                       help='Show what would be changed without modifying files')\n    parser.add_argument('--no-medium', action='store_true',\n                       help='Skip medium-confidence fixes (GKE, Vertex AI)')\n    parser.add_argument('--include-fallbacks', action='store_true',\n                       help='Include fallback icons for services without exact matches (Workflows, Eventarc)')\n    args = parser.parse_args()",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "SHAPE_FIXES",
+        "kind": 5,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "peekOfCode": "SHAPE_FIXES = {\n    'memorystore': 'cloud_memorystore',\n    'filestore': 'cloud_filestore',\n    'vision_api': 'cloud_vision_api',\n    'natural_language_api': 'cloud_natural_language_api',\n    'speech_to_text': 'cloud_speech_api',\n    'pubsub': 'cloud_pubsub',\n    'cloud_logging': 'logging',\n    'cloud_trace': 'trace',\n    'ai_platform': 'cloud_machine_learning',",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIUM_CONFIDENCE_FIXES",
+        "kind": 5,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "peekOfCode": "MEDIUM_CONFIDENCE_FIXES = {\n    'google_kubernetes_engine': 'container_engine',\n    'vertexai': 'cloud_machine_learning',  # Fallback to generic ML icon\n}\n# Services that don't have exact matches - using generic icons\nNO_MATCH_FIXES = {\n    'workflows': 'cloud_scheduler',  # Similar concept - scheduled orchestration\n    'eventarc': 'cloud_pubsub',  # Similar concept - event routing\n}\ndef backup_file(file_path):",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "NO_MATCH_FIXES",
+        "kind": 5,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "peekOfCode": "NO_MATCH_FIXES = {\n    'workflows': 'cloud_scheduler',  # Similar concept - scheduled orchestration\n    'eventarc': 'cloud_pubsub',  # Similar concept - event routing\n}\ndef backup_file(file_path):\n    \"\"\"Create a backup of the original file.\"\"\"\n    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')\n    backup_path = file_path.parent / f\"{file_path.stem}.backup_{timestamp}{file_path.suffix}\"\n    shutil.copy2(file_path, backup_path)\n    return backup_path",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.fix-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "DrawIOValidator",
+        "kind": 6,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-drawio",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-drawio",
+        "peekOfCode": "class DrawIOValidator:\n    def __init__(self, verbose=False):\n        self.verbose = verbose\n        self.errors = []\n        self.warnings = []\n    def log(self, msg):\n        if self.verbose:\n            print(f\"  [INFO] {msg}\")\n    def error(self, msg):\n        self.errors.append(msg)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-drawio",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-drawio",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-drawio",
+        "peekOfCode": "def main():\n    if len(sys.argv) < 2:\n        print(\"Usage: python validate-drawio.py <file.drawio> [--verbose]\")\n        sys.exit(2)\n    file_path = sys.argv[1]\n    verbose = '--verbose' in sys.argv or '-v' in sys.argv\n    print(f\"Validating: {file_path}\")\n    print(\"-\" * 50)\n    validator = DrawIOValidator(verbose=verbose)\n    is_valid = validator.validate(file_path)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-drawio",
+        "documentation": {}
+    },
+    {
+        "label": "title_to_snake_case",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "peekOfCode": "def title_to_snake_case(title):\n    \"\"\"Convert 'Cloud Run' to 'cloud_run'.\"\"\"\n    return title.lower().replace(' ', '_').replace('-', '_')\ndef snake_to_title_case(snake):\n    \"\"\"Convert 'cloud_run' to 'Cloud Run'.\"\"\"\n    return ' '.join(word.capitalize() for word in snake.replace('_', ' ').split())\ndef load_available_shapes(shapes_file):\n    \"\"\"Load available shape names from text file.\"\"\"\n    with open(shapes_file, 'r') as f:\n        # Filter out empty lines",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "snake_to_title_case",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "peekOfCode": "def snake_to_title_case(snake):\n    \"\"\"Convert 'cloud_run' to 'Cloud Run'.\"\"\"\n    return ' '.join(word.capitalize() for word in snake.replace('_', ' ').split())\ndef load_available_shapes(shapes_file):\n    \"\"\"Load available shape names from text file.\"\"\"\n    with open(shapes_file, 'r') as f:\n        # Filter out empty lines\n        shapes = [line.strip() for line in f if line.strip()]\n    return shapes\ndef load_gcp_icons(icons_file):",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "load_available_shapes",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "peekOfCode": "def load_available_shapes(shapes_file):\n    \"\"\"Load available shape names from text file.\"\"\"\n    with open(shapes_file, 'r') as f:\n        # Filter out empty lines\n        shapes = [line.strip() for line in f if line.strip()]\n    return shapes\ndef load_gcp_icons(icons_file):\n    \"\"\"Load GCP icons from JSON file.\"\"\"\n    with open(icons_file, 'r') as f:\n        return json.load(f)",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "load_gcp_icons",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "peekOfCode": "def load_gcp_icons(icons_file):\n    \"\"\"Load GCP icons from JSON file.\"\"\"\n    with open(icons_file, 'r') as f:\n        return json.load(f)\ndef validate_icons(available_shapes, gcp_icons):\n    \"\"\"\n    Validate each icon in gcp-icons.json.\n    Returns dict with validation results:\n    {\n        'valid': [...],",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "validate_icons",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "peekOfCode": "def validate_icons(available_shapes, gcp_icons):\n    \"\"\"\n    Validate each icon in gcp-icons.json.\n    Returns dict with validation results:\n    {\n        'valid': [...],\n        'invalid': [...],\n        'suggestions': {...}\n    }\n    \"\"\"",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "print_report",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "peekOfCode": "def print_report(results):\n    \"\"\"Print validation report.\"\"\"\n    print(\"\\n\" + \"=\"*70)\n    print(\"GCP ICON VALIDATION REPORT\")\n    print(\"=\"*70 + \"\\n\")\n    # Valid icons\n    print(f\"✅ VALID ICONS ({len(results['valid'])})\")\n    print(\"-\" * 70)\n    for item in results['valid']:\n        print(f\"  ✓ {item['service_name']}\")",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "description": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "peekOfCode": "def main():\n    # Determine base directory (project root)\n    script_dir = Path(__file__).parent\n    project_root = script_dir.parent\n    shapes_file = project_root / '.archive' / 'gcp2-available-shapes.txt'\n    icons_file = project_root / 'assets' / 'gcp-icons.json'\n    # Check files exist\n    if not shapes_file.exists():\n        print(f\"Error: {shapes_file} not found\", file=sys.stderr)\n        print(\"Run: python scripts/extract-shape-names.py gcp2.xml --output .archive/gcp2-available-shapes.txt\")",
+        "detail": "library.specializations.devops-sre-platform.skills.generating-gcp-diagrams.scripts.validate-gcp-icons",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "node_modules.flatted.python.flatted",
+        "description": "node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "node_modules.flatted.python.flatted",
+        "description": "node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "node_modules.flatted.python.flatted",
+        "description": "node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "node_modules.flatted.python.flatted",
+        "description": "node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "write_crc32_table",
+        "kind": 2,
+        "importPath": "node_modules.koffi.lib.native.base.crc_gen",
+        "description": "node_modules.koffi.lib.native.base.crc_gen",
+        "peekOfCode": "def write_crc32_table(f, name, poly):\n    f.write(f'static const uint32_t {name}[256] = {{')\n    for i in range(0, 256):\n        value = i\n        for j in range(0, 8):\n            value = (value >> 1) ^ (poly if value & 1 else 0)\n        if i % 6 == 0:\n            f.write('\\n   ')\n        f.write(f' 0x{value:08X}u,')\n    f.write('\\n};\\n\\n')",
+        "detail": "node_modules.koffi.lib.native.base.crc_gen",
+        "documentation": {}
+    },
+    {
+        "label": "write_crc64_tables",
+        "kind": 2,
+        "importPath": "node_modules.koffi.lib.native.base.crc_gen",
+        "description": "node_modules.koffi.lib.native.base.crc_gen",
+        "peekOfCode": "def write_crc64_tables(f, name, poly):\n    for table in range(0, 16):\n        count = table * 8 + 8\n        f.write(f'static const uint64_t {name}{table}[256] = {{')\n        for i in range(0, 256):\n            value = i\n            for j in range(0, count):\n                value = (value >> 1) ^ (poly if value & 1 else 0)\n            if i % 4 == 0:\n                f.write('\\n   ')",
+        "detail": "node_modules.koffi.lib.native.base.crc_gen",
+        "documentation": {}
+    },
+    {
+        "label": "CRC32_POLY",
+        "kind": 5,
+        "importPath": "node_modules.koffi.lib.native.base.crc_gen",
+        "description": "node_modules.koffi.lib.native.base.crc_gen",
+        "peekOfCode": "CRC32_POLY = 0xEDB88320\nCRC32C_POLY = 0x82F63B78\nCRC64_XZ_POLY = 0xC96C5795D7870F42\nCRC64_NVME_POLY = 0x9A6C9329AC4BC9B5\nLICENSE_HEADER = \"\"\"// SPDX-License-Identifier: MIT\n// SPDX-FileCopyrightText: 2025 Niels Martignène <niels.martignene@protonmail.com>\"\"\"\ndef write_crc32_table(f, name, poly):\n    f.write(f'static const uint32_t {name}[256] = {{')\n    for i in range(0, 256):\n        value = i",
+        "detail": "node_modules.koffi.lib.native.base.crc_gen",
+        "documentation": {}
+    },
+    {
+        "label": "CRC32C_POLY",
+        "kind": 5,
+        "importPath": "node_modules.koffi.lib.native.base.crc_gen",
+        "description": "node_modules.koffi.lib.native.base.crc_gen",
+        "peekOfCode": "CRC32C_POLY = 0x82F63B78\nCRC64_XZ_POLY = 0xC96C5795D7870F42\nCRC64_NVME_POLY = 0x9A6C9329AC4BC9B5\nLICENSE_HEADER = \"\"\"// SPDX-License-Identifier: MIT\n// SPDX-FileCopyrightText: 2025 Niels Martignène <niels.martignene@protonmail.com>\"\"\"\ndef write_crc32_table(f, name, poly):\n    f.write(f'static const uint32_t {name}[256] = {{')\n    for i in range(0, 256):\n        value = i\n        for j in range(0, 8):",
+        "detail": "node_modules.koffi.lib.native.base.crc_gen",
+        "documentation": {}
+    },
+    {
+        "label": "CRC64_XZ_POLY",
+        "kind": 5,
+        "importPath": "node_modules.koffi.lib.native.base.crc_gen",
+        "description": "node_modules.koffi.lib.native.base.crc_gen",
+        "peekOfCode": "CRC64_XZ_POLY = 0xC96C5795D7870F42\nCRC64_NVME_POLY = 0x9A6C9329AC4BC9B5\nLICENSE_HEADER = \"\"\"// SPDX-License-Identifier: MIT\n// SPDX-FileCopyrightText: 2025 Niels Martignène <niels.martignene@protonmail.com>\"\"\"\ndef write_crc32_table(f, name, poly):\n    f.write(f'static const uint32_t {name}[256] = {{')\n    for i in range(0, 256):\n        value = i\n        for j in range(0, 8):\n            value = (value >> 1) ^ (poly if value & 1 else 0)",
+        "detail": "node_modules.koffi.lib.native.base.crc_gen",
+        "documentation": {}
+    },
+    {
+        "label": "CRC64_NVME_POLY",
+        "kind": 5,
+        "importPath": "node_modules.koffi.lib.native.base.crc_gen",
+        "description": "node_modules.koffi.lib.native.base.crc_gen",
+        "peekOfCode": "CRC64_NVME_POLY = 0x9A6C9329AC4BC9B5\nLICENSE_HEADER = \"\"\"// SPDX-License-Identifier: MIT\n// SPDX-FileCopyrightText: 2025 Niels Martignène <niels.martignene@protonmail.com>\"\"\"\ndef write_crc32_table(f, name, poly):\n    f.write(f'static const uint32_t {name}[256] = {{')\n    for i in range(0, 256):\n        value = i\n        for j in range(0, 8):\n            value = (value >> 1) ^ (poly if value & 1 else 0)\n        if i % 6 == 0:",
+        "detail": "node_modules.koffi.lib.native.base.crc_gen",
+        "documentation": {}
+    },
+    {
+        "label": "LICENSE_HEADER",
+        "kind": 5,
+        "importPath": "node_modules.koffi.lib.native.base.crc_gen",
+        "description": "node_modules.koffi.lib.native.base.crc_gen",
+        "peekOfCode": "LICENSE_HEADER = \"\"\"// SPDX-License-Identifier: MIT\n// SPDX-FileCopyrightText: 2025 Niels Martignène <niels.martignene@protonmail.com>\"\"\"\ndef write_crc32_table(f, name, poly):\n    f.write(f'static const uint32_t {name}[256] = {{')\n    for i in range(0, 256):\n        value = i\n        for j in range(0, 8):\n            value = (value >> 1) ^ (poly if value & 1 else 0)\n        if i % 6 == 0:\n            f.write('\\n   ')",
+        "detail": "node_modules.koffi.lib.native.base.crc_gen",
+        "documentation": {}
+    },
+    {
+        "label": "parse_version",
+        "kind": 2,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "def parse_version(core):\n    lines = iter(core.splitlines())\n    version = next(lines).strip(\"\\n\\r \\t#\") + ' -- ' + next(lines).strip(\"\\n\\r \\t#\")\n    return version\ndef parse_properties_wcwidth(core, asian):\n    null = []\n    wide = []\n    for (chars, parts, comments) in parse_properties(core):\n        if comments[0] in ['Me', 'Mn', 'Mc', 'Cf', 'Zl', 'Zp']:\n            null.extend(chars)",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    },
+    {
+        "label": "parse_properties_wcwidth",
+        "kind": 2,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "def parse_properties_wcwidth(core, asian):\n    null = []\n    wide = []\n    for (chars, parts, comments) in parse_properties(core):\n        if comments[0] in ['Me', 'Mn', 'Mc', 'Cf', 'Zl', 'Zp']:\n            null.extend(chars)\n    for (chars, parts, comments) in parse_properties(asian):\n        if parts[1] in ['F', 'W'] and not comments[0] in ['Mn', 'Mc']:\n            wide.extend(chars)\n    return WcWidthResult(null = compress(null),",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    },
+    {
+        "label": "parse_properties_xid",
+        "kind": 2,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "def parse_properties_xid(core):\n    id_start = []\n    id_continue = []\n    for (chars, parts, comments) in parse_properties(core):\n        if parts[1] == 'ID_Start':\n            id_start.extend(chars)\n        elif parts[1] == 'ID_Continue':\n            id_continue.extend(chars)\n    return XidResult(id_start = compress(id_start),\n                     id_continue = compress(id_continue))",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    },
+    {
+        "label": "parse_properties",
+        "kind": 2,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "def parse_properties(text):\n    for line in text.splitlines():\n        line = line.strip()\n        if not line or line[0] == '#':\n            continue\n        parts = [part.strip() for part in re.split('[;#]', line)]\n        if len(parts) < 3:\n            continue\n        comments = parts[2].split(' ')\n        if '..' in parts[0]:",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    },
+    {
+        "label": "compress",
+        "kind": 2,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "def compress(chars):\n    ranges = []\n    if chars:\n        chars = sorted(set(chars))\n        iterator = iter(chars)\n        prev = next(iterator)\n        start = prev\n        for c in iterator:\n            if c != prev + 1:\n                ranges.append((start, prev + 1))",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    },
+    {
+        "label": "write_header",
+        "kind": 2,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "def write_header(version, wcwidth, xid, f):\n    f.write(f\"\"\"{LICENSE_HEADER}\n// This file is autogenerated by unicode_gen.py\n// Version: {version}\nnamespace K {{\nstatic const int32_t WcWidthNull[] = {{\"\"\")\n    for i, v in enumerate(wcwidth.null):\n        if i % 5 == 0: f.write('\\n   ')\n        f.write(f' 0x{v[0]:05X}, 0x{v[1]:05X}{\",\" if i + 1 < len(wcwidth.null) else \"\"}')\n    f.write(\"\"\"",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_URL",
+        "kind": 5,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "DEFAULT_URL = 'https://unicode.org/Public/16.0.0'\nLICENSE_HEADER = \"\"\"// SPDX-License-Identifier: MIT\n// SPDX-FileCopyrightText: 2025 Niels Martignène <niels.martignene@protonmail.com>\"\"\"\nWcWidthResult = namedtuple('WcWidthResult', ['null', 'wide'])\nXidResult = namedtuple('XidResult', ['id_start', 'id_continue'])\ndef parse_version(core):\n    lines = iter(core.splitlines())\n    version = next(lines).strip(\"\\n\\r \\t#\") + ' -- ' + next(lines).strip(\"\\n\\r \\t#\")\n    return version\ndef parse_properties_wcwidth(core, asian):",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    },
+    {
+        "label": "LICENSE_HEADER",
+        "kind": 5,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "LICENSE_HEADER = \"\"\"// SPDX-License-Identifier: MIT\n// SPDX-FileCopyrightText: 2025 Niels Martignène <niels.martignene@protonmail.com>\"\"\"\nWcWidthResult = namedtuple('WcWidthResult', ['null', 'wide'])\nXidResult = namedtuple('XidResult', ['id_start', 'id_continue'])\ndef parse_version(core):\n    lines = iter(core.splitlines())\n    version = next(lines).strip(\"\\n\\r \\t#\") + ' -- ' + next(lines).strip(\"\\n\\r \\t#\")\n    return version\ndef parse_properties_wcwidth(core, asian):\n    null = []",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    },
+    {
+        "label": "WcWidthResult",
+        "kind": 5,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "WcWidthResult = namedtuple('WcWidthResult', ['null', 'wide'])\nXidResult = namedtuple('XidResult', ['id_start', 'id_continue'])\ndef parse_version(core):\n    lines = iter(core.splitlines())\n    version = next(lines).strip(\"\\n\\r \\t#\") + ' -- ' + next(lines).strip(\"\\n\\r \\t#\")\n    return version\ndef parse_properties_wcwidth(core, asian):\n    null = []\n    wide = []\n    for (chars, parts, comments) in parse_properties(core):",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    },
+    {
+        "label": "XidResult",
+        "kind": 5,
+        "importPath": "node_modules.koffi.lib.native.base.unicode_gen",
+        "description": "node_modules.koffi.lib.native.base.unicode_gen",
+        "peekOfCode": "XidResult = namedtuple('XidResult', ['id_start', 'id_continue'])\ndef parse_version(core):\n    lines = iter(core.splitlines())\n    version = next(lines).strip(\"\\n\\r \\t#\") + ' -- ' + next(lines).strip(\"\\n\\r \\t#\")\n    return version\ndef parse_properties_wcwidth(core, asian):\n    null = []\n    wide = []\n    for (chars, parts, comments) in parse_properties(core):\n        if comments[0] in ['Me', 'Mn', 'Mc', 'Cf', 'Zl', 'Zp']:",
+        "detail": "node_modules.koffi.lib.native.base.unicode_gen",
+        "documentation": {}
+    }
+]
