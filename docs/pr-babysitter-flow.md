@@ -13,6 +13,17 @@ Há **dois canais** diferentes — não confundir:
 
 **Resumo para o board:** na PR, o Babysitter “acende” sozinho no GitHub Actions quando o workflow de CI corre; falha bloqueia merge na prática (check vermelho). Opcionalmente, cada dev pode correr o mesmo comando localmente antes de abrir a PR.
 
+## PR para `master` ou `main` — o gate corre automaticamente?
+
+**Sim.** Com o `ci.yml` actual (`on: pull_request`), **abrir ou empurrar commits para um PR** (actividades `opened`, `synchronize`, `reopened`) dispara o workflow **para qualquer branch de destino** (base do PR). Ou seja:
+
+- PR **feature → `master`** → CI corre → passo **Babysitter CLI gate** incluído.
+- PR **feature → `main`** → idem (é o padrão habitual em muitos clones upstream).
+
+Não é preciso um passo extra a “solicitar” o Babysitter além de **criar/atualizar a PR** normalmente; o GitHub Actions trata disso.
+
+> Se no futuro quiserem **restringir** o CI só a PRs cujo destino seja a branch principal (ex. só `master`), dá para acrescentar `branches: [master, main]` sob `pull_request` — hoje não está filtrado, o que evita surpresas em fluxos com outras branches de integração.
+
 ## Comando mínimo (local)
 
 Na raiz do repositório, após dependências e build do SDK:
