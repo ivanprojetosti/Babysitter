@@ -38,6 +38,20 @@ O workflow [`.github/workflows/ci.yml`](../.github/workflows/ci.yml) executa `np
 2. `npm run verify:babysitter` antes de pedir review (opcional mas recomendado).
 3. Conferir o artefato `babysitter-gate.log` no job de CI se o gate falhar no remoto.
 
+## FAQ — Paperclip vs Babysitter (ex.: projeto “Sistema Cruz”)
+
+**Pergunta:** *Se a tarefa for feita só pelo Paperclip, já usa o Babysitter?*
+
+**Resposta curta:** **não por magia.** O Paperclip agenda *heartbeats*, checkout de issues e acorda agentes; **não** dispara sozinho o CLI `babysitter` nem o gate `npm run verify:babysitter` a menos que **alguma integração explícita** o faça:
+
+| Onde | O que acontece |
+|------|----------------|
+| **CI deste monorepo (GitHub)** | Sim: em PR, o workflow corre `verify:babysitter` (gate determinístico). Isto é **independente** do Paperclip. |
+| **Agente num heartbeat (Cursor, etc.)** | Só corre Babysitter se as **instruções do agente** ou o **skill/harness** mandarem (ex. `babysitter harness:…`, `verify:babysitter`, skill *babysit*). O Paperclip não injeta isso automaticamente em todos os repos. |
+| **Outro repositório (ex. Sistema Cruz)** | Só tem gate Babysitter se **esse** repo tiver passo equivalente no CI ou script documentado — copiar o padrão deste repo ou ticket filho. |
+
+Ou seja: **Paperclip sozinho ≠ gate de PR.** Paperclip coordena *quem* trabalha; o **onde passa/falha** no CLI neste projeto está no **GitHub Actions** (e opcionalmente no que o agente correr no workspace).
+
 ## Fluxo de branch (empresa)
 
 Regras de branch e script `git-start-iva-task.sh` ficam no repositório/processos da **IVAN CRUZ PROJETOS** (`docs/branching.md` lá); este documento cobre só o **gate Babysitter neste monorepo**.
